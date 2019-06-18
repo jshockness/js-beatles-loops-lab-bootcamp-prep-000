@@ -17,4 +17,5 @@ var facts = "He was the last Beatle to learn to drive",
 function johnLennonFacts(facts) {
   var shoutedFacts = []
   
+  let i = 0
 }
