@@ -1,4 +1,4 @@
-var musicians 
+var musicians = 
 
 function theBeatlesPlay(musicians, intstruments) {
   const array = []
