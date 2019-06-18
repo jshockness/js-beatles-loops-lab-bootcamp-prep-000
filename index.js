@@ -1,1 +1,1 @@
-function theBeatlesPlay
+function theBeatlesPlay(musicians, intstruments)
