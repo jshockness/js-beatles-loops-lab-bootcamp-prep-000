@@ -18,4 +18,5 @@ function johnLennonFacts(facts) {
   var shoutedFacts = []
   
   let i = 0
+  
 }
